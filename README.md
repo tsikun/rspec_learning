@@ -1,2 +1,2 @@
 # rspec_learning
-some rspec examples from relish.com for learning
+some rspec examples from offical documents for learning.
